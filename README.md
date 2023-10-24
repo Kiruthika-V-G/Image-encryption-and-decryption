@@ -1,2 +1,2 @@
 # Image-encryption-and-decryption
-It uses permutation based encryption and 3-4 secret sharing code methods
+This Python program utilizes the tkinter library and implements image encryption/decryption and image secret sharing. It offers functionalities such as browsing images, encrypting and decrypting images using a permutation-based approach, and splitting and reconstructing images using polynomial interpolation.
